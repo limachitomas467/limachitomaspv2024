@@ -6,12 +6,12 @@ public class Prueba {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int anio=2024;
-		String saludo="hola";
+		String saludo="hola programa visual";
      System.out.println(saludo + anio);
      
      if  (anio<=2024)
      {
-    	 System.out.println("año correcto");
+    	 System.out.println("año correcto ");
     	 
      }
      else
